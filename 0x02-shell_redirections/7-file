@@ -1,3 +1,3 @@
 #!/bin/bash
-echo -e "Best school" >> "\\\\\\'\"best School\"\\'\\\\$\\?\\\\\\\\\\*:)"
+echo "Best school" > "\\\\\\'\"best\School\"\\\'\\\\$\\\?\\\\\\\\\\*\:\)"
 
